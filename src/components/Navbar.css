@@ -1,0 +1,29 @@
+.head {
+    font-size: 2.1rem;
+}
+
+@media (max-width: 375px) {
+    .head {
+        left: 18% !important;
+    }
+}
+@media (max-width: 414px) {
+    .head {
+        left: 18% !important;
+    }
+}
+@media (max-width: 320px) {
+    .head {
+        left: 18% !important;
+    }
+}
+@media (max-width: 411px) {
+    .head {
+        left: 18% !important;
+    }
+}
+@media (max-width: 360px) {
+    .head {
+        left: 18% !important;
+    }
+}
